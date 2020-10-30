@@ -1,0 +1,141 @@
+[
+    {
+        "nombre": "Luis",
+        "apellido": "Galvis",
+        "sexo": "M",
+        "edad": "32",
+        "nacionalidad": "Colombiana",
+        "nroDocumento": "1014196481",
+        "tipoDocumento": "CC",
+        "fechaNacimiento": "2020-10-30T21:38:08.697+00:00",
+        "parentesco": "",
+        "nucleoFamiliar": [
+            {
+                "nombre": "Carlos",
+                "apellido": "Galvis",
+                "sexo": "M",
+                "edad": "15",
+                "nacionalidad": "Colombiana",
+                "nroDocumento": "88111555600",
+                "tipoDocumento": "TI",
+                "fechaNacimiento": "2020-10-30T21:38:08.697+00:00",
+                "parentesco": "hijo",
+                "nucleoFamiliar": []
+            }
+        ]
+    }
+]
+
+, GuardarPersona:
+ {
+        "nombre": "David",
+        "apellido": "Guzmán",
+        "sexo": "M",
+        "edad": "25",
+        "nacionalidad": "Colombiana",
+        "nroDocumento": "1014196444",
+        "tipoDocumento": "CC",
+        "fechaNacimiento": "1994-04-04T21:38:08.697+00:00",
+        "parentesco": "",
+        "nucleoFamiliar": [
+            {
+                "nombre": "Mario",
+                "apellido": "Guzman",
+                "sexo": "M",
+                "edad": "15",
+                "nacionalidad": "Colombiana",
+                "nroDocumento": "88111555644",
+                "tipoDocumento": "TI",
+                "fechaNacimiento": "2020-10-30T21:38:08.697+00:00",
+                "parentesco": "hijo",
+                "nucleoFamiliar": []
+            }
+        ]
+    }
+,buscarPersonas:
+
+[
+    {
+        "nombre": "Luis",
+        "apellido": "Galvis",
+        "sexo": "M",
+        "edad": "32",
+        "nacionalidad": "Colombiana",
+        "nroDocumento": "1014196481",
+        "tipoDocumento": "CC",
+        "fechaNacimiento": "1988/11/15",
+        "parentesco": "",
+        "nucleoFamiliar": [
+            {
+                "nombre": "Carlos",
+                "apellido": "Galvis",
+                "sexo": "M",
+                "edad": "15",
+                "nacionalidad": "Colombiana",
+                "nroDocumento": "88111555600",
+                "tipoDocumento": "TI",
+                "fechaNacimiento": "2020/04/04",
+                "parentesco": "hijo",
+                "nucleoFamiliar": []
+            }
+        ]
+    },
+    {
+        "nombre": "David",
+        "apellido": "Guzmán",
+        "sexo": "M",
+        "edad": "25",
+        "nacionalidad": "Colombiana",
+        "nroDocumento": "1014196444",
+        "tipoDocumento": "CC",
+        "fechaNacimiento": "1994-04-04T21:38:08.697+00:00",
+        "parentesco": "",
+        "nucleoFamiliar": [
+            {
+                "nombre": "Mario",
+                "apellido": "Guzman",
+                "sexo": "M",
+                "edad": "15",
+                "nacionalidad": "Colombiana",
+                "nroDocumento": "88111555644",
+                "tipoDocumento": "TI",
+                "fechaNacimiento": "2020-10-30T21:38:08.697+00:00",
+                "parentesco": "hijo",
+                "nucleoFamiliar": []
+            }
+        ]
+    }
+]
+
+EditarPersona,
+
+  {
+        "nombre": "David Ricardo",
+        "apellido": "Guzmán Guzmán",
+        "sexo": "M",
+        "edad": "25",
+        "nacionalidad": "Colombiana",
+        "nroDocumento": "1014196444",
+        "tipoDocumento": "CC",
+        "fechaNacimiento": "1994-04-04T21:38:08.697+00:00",
+        "parentesco": "",
+        "nucleoFamiliar": [
+            {
+                "nombre": "Mario",
+                "apellido": "Guzman",
+                "sexo": "M",
+                "edad": "15",
+                "nacionalidad": "Colombiana",
+                "nroDocumento": "88111555644",
+                "tipoDocumento": "TI",
+                "fechaNacimiento": "2020-10-30T21:38:08.697+00:00",
+                "parentesco": "hijo",
+                "nucleoFamiliar": []
+            }
+        ]
+    }
+, borrarPersonas:
+
+Se ha borrado la persona con id: 1014196481
+
+
